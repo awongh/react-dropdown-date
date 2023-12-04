@@ -1,5 +1,5 @@
 {
-    "name": "react-dropdown-date2",
+    "name": "react-dropdown-date-3",
     "version": "2.2.8",
     "description": "Highly customizable react based date picker. Select date from Day, Month and Year dropdown",
     "license": "MIT",
@@ -19,8 +19,8 @@
     },
     "author": "Akira <awong@a15i.net>",
     "peerDependencies": {
-        "react": "^18",
-        "react-dom": "^18"
+        "react": ">=16",
+        "react-dom": ">=16"
     },
     "devDependencies": {
         "@types/react": "^18.2.41",
