@@ -1,10 +1,16 @@
-# react-dropdown-date
+# react-dropdown-date-3
 Highly customizable react based date picker. Select date from Day, Month and Year dropdown
 
-## npm
-```npm i react-dropdown-date```
+## Notice:
+#### This is an update to the original package here:
+https://www.npmjs.com/package/react-dropdown-date
 
-https://www.npmjs.com/package/react-dropdown-date2
+This update adds peer dep support for react >16.
+
+## npm
+```npm i react-dropdown-date-3```
+
+https://www.npmjs.com/package/react-dropdown-date-3
 
 ## [Demo Link](https://codesandbox.io/s/react-dropdown-date-demo-gbm2k)
 https://codesandbox.io/s/react-dropdown-date-demo-gbm2k
